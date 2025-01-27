@@ -1,0 +1,3 @@
+include:
+  - ./golang-trace-go-api/docker-compose.yaml
+  - ./nest-trace-go-api/docker-compose.yaml
