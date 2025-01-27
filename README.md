@@ -1,4 +1,4 @@
-Rode todas as aplicações com o comando:
+# Rode todas as aplicações com o comando:
 
 ```bash
 docker-compose up -d
