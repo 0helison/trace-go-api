@@ -1,0 +1,25 @@
+# Trace Go API - Golang
+
+## Descrição
+
+Repositório do Golang (simulador de trajeto e cálculo de frete).
+
+## Rodar a aplicação
+
+Levante os containers:
+
+```
+docker compose up -d
+```
+
+Entre no container simulator:
+
+```
+docker compose exec -i simulator sh
+```
+
+Rode o comando para executar o projeto:
+
+```
+go run cmd/simulator/main.go
+```
